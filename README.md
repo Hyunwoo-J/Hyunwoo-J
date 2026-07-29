@@ -4,12 +4,12 @@ iOS Developer · Swift / SwiftUI / RxSwift
 
 ### Statistics
 <div>
-  <img alt="stats" src="https://github-stats-extended.vercel.app/api?username=Hyunwoo-J&show_icons=true&include_all_commits=true&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" width="49%" />
+  <img alt="stats" src="https://github-stats-extended-master-fronte.vercel.app/api?username=Hyunwoo-J&show_icons=true&include_all_commits=true&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" width="49%" />
   <img alt="streak" src="https://streak-stats.demolab.com?user=Hyunwoo-J&background=20232A&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true&date_format=Y/n/j" width="49%" />
 </div>
 
 <div>
-  <img alt="top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hyunwoo-J&layout=compact&langs_count=8&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&size_weight=0.5&count_weight=0.5" width="40%" />
+  <img alt="top languages" src="https://github-stats-extended-master-fronte.vercel.app/api/top-langs/?username=Hyunwoo-J&layout=compact&langs_count=8&exclude_repo=claude-code-sourcemap&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" width="40%" />
 </div>
 
 ### Tech Stack
