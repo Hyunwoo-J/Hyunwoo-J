@@ -9,7 +9,7 @@ iOS Developer · Swift / SwiftUI / RxSwift
 </div>
 
 <div>
-  <img alt="top languages" src="https://github-stats-extended-master-fronte.vercel.app/api/top-langs/?username=Hyunwoo-J&layout=compact&langs_count=8&exclude_repo=claude-code-sourcemap&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" width="40%" />
+  <img alt="top languages" src="https://github-stats-extended-master-fronte.vercel.app/api/top-langs/?username=Hyunwoo-J&layout=compact&langs_count=8&exclude_repo=claude-code-sourcemap,github-stats-extended-master&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" width="40%" />
 </div>
 
 ### Tech Stack
